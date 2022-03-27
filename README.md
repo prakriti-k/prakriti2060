@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prakriti2060
-- 👀 I’m interested in computers
+- 👀 I’m interested in 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
